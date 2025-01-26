@@ -4,6 +4,6 @@ This repository serves as a central hub for all my FSWD project repositories. Be
 
 - [JCT - FSWD - Project 1](https://github.com/Lior-Tor/JCT-FSWD-Project1)
 - [JCT - FSWD - Project 2](https://github.com/Lior-Tor/JCT-FSWD-Project2)
-- [JCT - FSWD - Project 2](https://github.com/Lior-Tor/JCT-FSWD-Project3)
+- [JCT - FSWD - Project 3](https://github.com/Lior-Tor/JCT-FSWD-Project3)
 
 ---
