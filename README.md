@@ -14,7 +14,7 @@ This repository serves as a central hub for all my FSWD project repositories. Be
 
 - [JCT - FSWD - Project 3](https://github.com/Lior-Tor/JCT-FSWD-Project3)
 
-[![image](https://github.com/user-attachments/assets/3d17e6c6-7fb4-4707-b37b-d9fab77ae900)](https://lior-tor.github.io/JCT-FSWD-Project3/client/index.html)
+[![Screenshot 2025-03-09 212156](https://github.com/user-attachments/assets/8265b3de-4fc7-4097-b330-08b656894e66)](https://lior-tor.github.io/JCT-FSWD-Project3/client/index.html)
 
 
 ---
